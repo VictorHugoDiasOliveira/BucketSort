@@ -8,13 +8,4 @@ BucketSort algorithm with real-time interface showing execution
 - tkinter libraries
 
 ## Example
-Data befored being sorted:<br>
-![ToSort](images/ToSort.png)<br>
-
-Data after being sorted.<br>
-![Sorted](images/Sorted.png)<br>
-
-<video width="320" height="240" controls>
-  <source src="videos/Bucket Sort Visualizer.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+https://github.com/VictorHugoDiasOliveira/BucketSort/assets/107045727/f489baff-248e-4b12-b9d9-b8c3bcb59eda
