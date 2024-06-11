@@ -1,7 +1,7 @@
 # Bucket Sort Algorithm
 
 ## Overview
-BucketSort algorithm with real-time interface showing execution
+Bucket Sort algorithm with real-time interface showing execution
 
 ## Prerequisites
 - Python 3.x installed
