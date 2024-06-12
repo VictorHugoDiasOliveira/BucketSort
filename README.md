@@ -12,4 +12,4 @@ https://github.com/VictorHugoDiasOliveira/BucketSort/assets/107045727/f489baff-2
 
 ## To do
 
-Create a better view
+Improve algorithm visualization
